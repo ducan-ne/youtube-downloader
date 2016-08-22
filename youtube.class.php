@@ -1,4 +1,12 @@
 <?php
+
+/**
+ * Project : YoutbeDownloader
+ * User: SonicQ12
+ * Date: 10/08/2016
+ * Time: 11:37 PM
+ */
+
 class YOUTUBE{
 	public	$_config, 
 			$videoInfo = '', 
